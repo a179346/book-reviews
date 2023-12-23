@@ -1,1 +1,5 @@
-# book-reviews
+## book-reviews
+
+我的讀書閱讀筆記，紀錄讀過的書以及感想。
+
+## 小說
